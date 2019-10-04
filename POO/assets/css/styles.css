@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+.body{
+    font-family: 'Lexend Deca', sans-serif;
+}
+.fd{
+    background-image:  url("https://iosmac.es/wp-content/uploads/2018/07/4699202A-33FD-4915-BF0C-5633D3CB10B9.jpeg") ;
+    -webkit-background-clip: text;
+    color: transparent;  
+}
+.kj{
+    background-color: transparent;
+    transition: all 1s ease;
+  }
+  .navbar{
+     transition: all 0.5s ease;
+  }
+
+  .ir-arriba {
+	padding:20px;
+	background:#024959;
+	font-size:20px;
+	color:#fff;
+	cursor:pointer;
+	position: fixed;
+	bottom:20px;
+	right:20px;
+}
